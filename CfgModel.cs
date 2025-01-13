@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Excel2Json
+{
+    internal class CfgModel
+    {
+        public string excelDir;
+        public string outputPath;
+    }
+}
