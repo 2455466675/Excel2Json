@@ -2,3 +2,6 @@ bin/
 Bin/
 /.vs
 .vs/
+obj/
+Obj/
+/Debug
